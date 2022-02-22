@@ -11,4 +11,4 @@ ON LINKEDIN: https://www.linkedin.com/in/trust-a-26996b206/
 
 and
 
-ayenitrust137@gmail.com
+trust.ayeniolamilekan@gmail.com
