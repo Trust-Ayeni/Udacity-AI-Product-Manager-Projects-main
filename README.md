@@ -12,11 +12,11 @@ For now, see my Nanodegree files
 
 Contact me :
 
-`ON LINKEDIN:`[here](https://www.linkedin.com/in/trustayeni/)
+`ON LINKEDIN:`[Site](https://www.linkedin.com/in/trustayeni/)
 
 and
 
-`Email:`[here](trust.ayeniolamilekan@gmail.com)
+`Email:`[Google mail](trust.ayeniolamilekan@gmail.com)
 
 
 ## Build a Model with Google AutoML
